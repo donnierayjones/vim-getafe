@@ -147,7 +147,7 @@ hi Search          guifg=#F8FFF9   guibg=#FF358B                       ctermfg=1
 hi StatusLine      guifg=#000000   guibg=#01B0F0    gui=bold           ctermfg=39      ctermbg=234
 hi StatusLineNC    guifg=#F8FFF9   guibg=#5A7085                       ctermfg=236     ctermbg=60
 hi Todo            guifg=#000000   guibg=#FFDC00    gui=bold           ctermfg=0       ctermbg=220
-hi Visual          guifg=#F8FFF9   guibg=#FF358B                                       ctermbg=60
+hi Visual          guifg=#F8FFF9   guibg=#FF358B                                       ctermbg=235
 hi ModeMsg         guifg=#000000   guibg=#FFDC00                       ctermfg=0       ctermbg=220
 hi SpecialKey      guifg=#5A7085                                       ctermfg=60
 hi ErrorMsg        guifg=#000000   guibg=#FF500E                       ctermfg=0       ctermbg=202
