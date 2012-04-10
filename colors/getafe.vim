@@ -134,7 +134,7 @@ hi Todo            guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=1
 " Interface                                                                                                          "
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
 
-hi ColorColumn                     guibg=#5A7085                                       ctermbg=15
+hi ColorColumn                     guibg=#5A7085                                       ctermbg=235
 hi Cursor          guifg=#1B1D1E   guibg=#FF358B                       ctermfg=234     ctermbg=202
 hi CursorLine      guifg=#1B1D1E   guibg=#FF358B                                       ctermbg=235
 hi Directory       guifg=#01B0F0                                       ctermfg=39
@@ -150,7 +150,7 @@ hi Todo            guifg=#000000   guibg=#FFDC00    gui=bold           ctermfg=0
 hi Visual          guifg=#F8FFF9   guibg=#FF358B                                       ctermbg=238
 hi ModeMsg         guifg=#000000   guibg=#FFDC00                       ctermfg=0       ctermbg=220
 hi SpecialKey      guifg=#5A7085                                       ctermfg=60
-hi ErrorMsg        guifg=#000000   guibg=#FF500E                       ctermfg=0       ctermbg=202
+hi ErrorMsg        guifg=#000000   guibg=#FF500E                       ctermfg=15      ctermbg=202
 hi Title           guifg=#F8FFF9                                       ctermfg=15
 hi DiffAdd	       guifg=#000000   guibg=#AEEE00                       ctermfg=0       ctermbg=154
 hi DiffChange      guifg=#000000   guibg=#FFDC00                       ctermfg=0       ctermbg=220
