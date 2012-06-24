@@ -135,26 +135,27 @@ hi Todo            guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=1
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
 
 hi ColorColumn                     guibg=#5A7085                                       ctermbg=235
-hi Cursor          guifg=#1B1D1E   guibg=#FF358B                       ctermfg=234     ctermbg=202
-hi CursorLine      guifg=#1B1D1E   guibg=#FF358B                                       ctermbg=235
+hi Cursor          guifg=#1B1D1E   guibg=#FF358B                       ctermfg=234     ctermbg=204
+hi CursorIM        guifg=#1B1D1E   guibg=#FF358B                       ctermfg=234     ctermbg=204
+hi CursorLine                      guibg=#FF358B                       ctermfg=15      ctermbg=204
 hi Directory       guifg=#01B0F0                                       ctermfg=39
-hi VertSplit       guifg=#5A7085   guibg=#5A7085                       ctermfg=235     ctermbg=235
-hi Folded          guifg=#5A7085   guibg=#FFDC00                       ctermfg=60      ctermbg=220
+hi VertSplit       guifg=#5A7085   guibg=#5A7085                       ctermfg=233     ctermbg=233
+hi Folded          guifg=#5A7085   guibg=#FFDC00                       ctermfg=238     ctermbg=220
 hi IncSearch       guifg=#1B1D1E   guibg=#a7a7a7                       ctermfg=234     ctermbg=248
-hi LineNr          guifg=#5A7085   guibg=#000000                       ctermfg=60      ctermbg=NONE
+hi LineNr          guifg=#5A7085   guibg=#000000                       ctermfg=238     ctermbg=NONE
 hi NonText         guifg=#eeeeee   guibg=#1B1D1E                       ctermfg=234     ctermbg=NONE
 hi Search          guifg=#F8FFF9   guibg=#FF358B                       ctermfg=15      ctermbg=204
 hi StatusLine      guifg=#000000   guibg=#01B0F0    gui=bold           ctermfg=39      ctermbg=NONE
-hi StatusLineNC    guifg=#F8FFF9   guibg=#5A7085                       ctermfg=236     ctermbg=60
+hi StatusLineNC    guifg=#F8FFF9   guibg=#5A7085                       ctermfg=233     ctermbg=238
 hi Todo            guifg=#000000   guibg=#FFDC00    gui=bold           ctermfg=0       ctermbg=220
-hi Visual          guifg=#F8FFF9   guibg=#FF358B                                       ctermbg=238
+hi Visual          guifg=#F8FFF9   guibg=#FF358B                       ctermfg=0       ctermbg=204
 hi ModeMsg         guifg=#000000   guibg=#FFDC00                       ctermfg=0       ctermbg=220
-hi SpecialKey      guifg=#5A7085                                       ctermfg=60
+hi SpecialKey      guifg=#5A7085                                       ctermfg=238
 hi ErrorMsg        guifg=#000000   guibg=#FF500E                       ctermfg=15      ctermbg=202
 hi Title           guifg=#F8FFF9                                       ctermfg=15
 hi DiffAdd	       guifg=#000000   guibg=#AEEE00                       ctermfg=0       ctermbg=154
 hi DiffChange      guifg=#000000   guibg=#FFDC00                       ctermfg=0       ctermbg=220
-hi DiffDelete      guifg=#000000   guibg=#9187FF                       ctermfg=0       ctermbg=204
+hi DiffDelete      guifg=#000000   guibg=#9187FF                       ctermfg=15      ctermbg=204
 hi DiffText        guifg=#F8FFF9                                       ctermfg=15
 hi MatchParen      guifg=#F8FFF9   guibg=#FF500E                       ctermfg=15      ctermbg=202
 hi Identifier      guifg=#01B0F0                                       ctermfg=202
@@ -163,15 +164,15 @@ hi Label           guifg=#AEEE00                                       ctermfg=1
 hi Special         guifg=#01B0F0                                       ctermfg=39
 hi WildMenu        guifg=#01B0F0   guibg=#000000                       ctermfg=39      ctermbg=NONE
 hi Pmenu           guifg=#01B0F0   guibg=#000000                       ctermfg=39      ctermbg=NONE
-hi PmenuSel                        guibg=#5A7085                                       ctermbg=60
-hi PmenuSbar                       guibg=#5A7085                                       ctermbg=60
+hi PmenuSel                        guibg=#5A7085                                       ctermbg=238
+hi PmenuSbar                       guibg=#5A7085                                       ctermbg=238
 hi PmenuThumb      guifg=#01B0F0                                       ctermfg=39
 
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
 " Syntax related colors
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
 
-hi Comment         guifg=#5A7085                                       ctermfg=60
+hi Comment         guifg=#5A7085                                       ctermfg=238
 hi Constant        guifg=#B994FF                                       ctermfg=204
 hi String          guifg=#AEEE00                                       ctermfg=204
 hi Number          guifg=#FF6E0E                                       ctermfg=202
